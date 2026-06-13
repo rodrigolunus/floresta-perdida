@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "floresta-perdida -d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^19.0.0",
