@@ -10,14 +10,11 @@ function App() {
         </p>
         <p align="center">
           <iframe
-            className="video"
             width="560"
             height="315"
             src="https://www.youtube.com/embed/12gmGZxfiqM?si=17hglyLOVY7TgUwZ"
-            title="YouTube video player"
             frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"
             allowfullscreen
           ></iframe>
         </p>
