@@ -15,7 +15,7 @@
   font-size: 20px;
  }
 
-.titulo, .descricao, .video{
+.titulo, .descricao{
  line-height: 1.5;
   display: flex;
   justify-content: center;

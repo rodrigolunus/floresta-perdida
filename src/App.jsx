@@ -8,7 +8,7 @@ function App() {
           remake de The Legend Of Zelda: Ocarina Of Time Para O Nintendo Switch
           2
         </p>
-        <p align="center">
+        <p align="center" className="video">
           <iframe
             width="560"
             height="315"
