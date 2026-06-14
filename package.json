@@ -1,7 +1,7 @@
 {
   "name": "floresta-perdida",
   "version": "0.0.0",
-  "homepage": "https://rodrigolunus.github.io/floresta-perdida",
+  "homepage": "https://www.florestaperdida.com.br",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
